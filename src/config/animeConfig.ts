@@ -69,7 +69,7 @@ export const animeConfig: AnimeConfig = withUserConfig("anime", {
 			},
 		},
 		bilibili: {
-			enable: false,
+			enable: true,
 			vmid: "1129623310", // 填入你的 B 站公开 UID
 			sessdataEnv: "BILI_SESSDATA",
 			cover: {

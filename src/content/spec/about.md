@@ -1,26 +1,11 @@
-# About Shirone
-
-Welcome to the demo site of **Shirone** (白音) — an expressive, anime-inspired blog theme built on the **Material 3 Expressive (M3E)** design system.
-
-::github{repo="LyraVoid/Shirone"}
-
-## ✦ Design & Philosophy
-
-Shirone aims to combine the warmth of expressive anime aesthetics with the rigor of modern web engineering:
-
-- **Dynamic Chromatic Spell**: Full dynamic HCT palette generation responding seamlessly to light/dark modes and user preferences with zero layout shifts.
-- **Seamless Shell Navigation**: Persistent application shell driven by Swup for continuous music playback, smooth page transitions, and preserved state.
-- **Rich Story Grimoire**: Markdown and MDX authoring with KaTeX math, Mermaid diagrams, interactive admonitions, expressive code blocks, and adaptive image galleries.
-- **Zero Extra Burden**: Optional integrations (comments, analytics, music widgets) load dynamically on demand — zero DOM footprint and zero bundle overhead when disabled.
-
-## ✦ Tech Stack
-
-- **Framework**: [Astro 7](https://astro.build/) & [Svelte 5](https://svelte.dev/) (Runes-driven islands)
-- **Styling**: [Tailwind CSS 4](https://tailwindcss.com/) & [Stylus](https://stylus-lang.com/)
-- **Design Standard**: [Material 3 Expressive](https://m3.material.io/)
-- **Typography**: Outfit & Yozai (悠哉圆体) with automated build-time subsetting
-- **Search Engine**: [Pagefind](https://pagefind.app/) offline full-text search
-
-## ✦ Credits
-
-- **Font**: [Yozai Font (悠哉字体)](https://github.com/lxgw/yozai-font) by [lxgw](https://github.com/lxgw)
+# 关于我：  
+  
+我是一名学生，目前在读高中，热爱***编程***、***前沿科技***、***游戏开发***、***ACG文化***等。  
+  
+# 为什么搭建这个博客？  
+  
+说实话，其实我自己也不太清楚。起因是一天我在刷BiliBili的时候看到了一条搭建个人网站的教程视频，感觉很有意思，就想着反正着闲着也是闲着，不如自己也尝试搭建一下，于是就有了这个博客。至于以后会写一些什么内容我也不好说，可能会发一些我在研究的有趣的项目，或者是分享和同学一起做的游戏的开发日志。（大概？）当然，最大的可能其实是网站一直挂着吃灰（）。  
+  
+# 联系方式：  
+  
+邮箱：gastermmt@gmail.com

@@ -62,6 +62,7 @@ export const musicConfig: MusicConfig = withUserConfig("music", {
 	// 	},
 	// ],
 	meting: {
+		// api: "https://melting.gastermmt.top/api?server=:server&type=:type&id=:id&r=:r",
 		server: "netease",
 		type: "playlist",
 		id: "14164869977",

@@ -61,7 +61,7 @@ export const animeConfig: AnimeConfig = withUserConfig("anime", {
 	providers: {
 		bangumi: {
 			enable: true,
-			userId: "GasterMMT", // 填入你的 Bangumi 数字 UID 或公开用户名（测试可填 "sai"）
+			userId: "gastermmt", // 填入你的 Bangumi 数字 UID 或公开用户名（测试可填 "sai"）
 			request: {
 				pageSize: 50,
 				maxItems: 300,

@@ -46,8 +46,8 @@ export const animeConfig: AnimeConfig = withUserConfig("anime", {
 
 	/** 主数据源选择 */
 	source: {
-		kind: "bangumi",
-		// provider: "bangumi",
+		kind: "snapshot",
+		provider: "bangumi",
 		// file: "bangumi.json",
 		// fetchOnDev: true,
 	},

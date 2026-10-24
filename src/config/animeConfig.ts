@@ -54,7 +54,7 @@ export const animeConfig: AnimeConfig = withUserConfig("anime", {
 
 	/** 异常降级策略（快照丢失或解析失败时回退本地数据） */
 	fallback: {
-		kind: "bilibili",
+		kind: "local",
 	},
 
 	/** 外部提供方配置 */
@@ -69,7 +69,7 @@ export const animeConfig: AnimeConfig = withUserConfig("anime", {
 			},
 		},
 		bilibili: {
-			enable: true,
+			enable: false,
 			vmid: "1129623310", // 填入你的 B 站公开 UID
 			sessdataEnv: "BILI_SESSDATA",
 			cover: {
